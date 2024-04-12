@@ -9,6 +9,7 @@ Custom discord bot for https://discord.gg/mommy (65k+ members)
 ## Features
 
 - Ticket System
+- Invite Logger
 - Giveaway System
 - Leaderboards (daily, weekly, monthly, all time)
 - Private VC System
@@ -23,6 +24,8 @@ Custom discord bot for https://discord.gg/mommy (65k+ members)
 ## Screenshots
 
 ![App Screenshot](/assets/ticket_panel.png)
+
+![App Screenshot](/assets/invites.png)
 
 ![App Screenshot](/assets/priv-vc.png)
 
