@@ -1,6 +1,6 @@
 # Mommy Client
 
-Custom discord bot for https://discord.gg/mommy (65k+ members)
+Custom discord bot for https://discord.gg/mommy (100k+ members)
 
 ## Authors
 
